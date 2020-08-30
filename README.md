@@ -4,7 +4,7 @@
 
 # `CALI` Cálculo I
 
-| Nombre                | Sistemas Operativos                                          |
+| Nombre                | Cálculo I |
 | --------------------- | ------------------------------------------------------------ |
 | Abreviatura           | `CALI` |
 | Grado correspondiente | Matemáticas |
