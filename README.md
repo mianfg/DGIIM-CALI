@@ -2,7 +2,7 @@
 
 ![Repo image](https://repository-images.githubusercontent.com/291504899/26a8ce80-eaec-11ea-9acd-97a5a31621fe)
 
-# `SO` Sistemas Operativos
+# `CALI` Cálculo I
 
 | Nombre                | Sistemas Operativos                                          |
 | --------------------- | ------------------------------------------------------------ |
